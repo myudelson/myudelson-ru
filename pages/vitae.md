@@ -2,7 +2,7 @@
 layout: page
 title: Биография
 permalink: /vitae/
-weight: 3
+weight: 1
 ---
 
 <!-- # **Биография** -->
