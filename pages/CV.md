@@ -8,7 +8,7 @@ weight: 7
 
 # Михаил Юдельсон, к.т.н. &amp; Ph.D.
 
-[https://myudelson.github.io/myudelson-ru/](https://myudelson.github.io/myudelson-ru/)&nbsp;&nbsp;&nbsp;Москва, Россия&nbsp;&nbsp;&nbsp;<a href="../assets/pdf/MichaelYudelson_corp_resume_ru.pdf" target="_blank"><i class="fas fa-print" data-toggle="tooltip" title="Скачать PDF Резюме"></i></a>
+[myudelson.github.io/myudelson-ru/](https://myudelson.github.io/myudelson-ru/)&nbsp;&nbsp;&nbsp;Москва, Россия&nbsp;&nbsp;&nbsp;<a href="../assets/pdf/MichaelYudelson_corp_resume_ru.pdf" target="_blank"><i class="fas fa-print" data-toggle="tooltip" title="Скачать PDF Резюме"></i></a>
 
 
 ## О себе
